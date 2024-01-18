@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Buy a new luggage"
+    },
+    {
+      "id": "2",
+      "text": "Prepare for nearest job interview"
+    },
+    {
+      "id": "4",
+      "text": "Python Assignment"
+    },
+    {
+      "id": "52d3",
+      "text": "Small Family Dinner"
+    }
+  ]
+}
